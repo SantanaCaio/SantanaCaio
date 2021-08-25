@@ -29,9 +29,9 @@
   
  <h3 align="center">-- Designer -- </h3> 
    <div style="display: inline_block" align="center"><br>
-       <img align="center" alt="" height="30" src="https://aleen42.github.io/badges/src/photoshop.svg"> 
-       <img align="center" alt="" height="30" src="https://aleen42.github.io/badges/src/after_effects.svg"> 
-       <img align="center" alt="" height="30" src="https://aleen42.github.io/badges/src/premiere.svg"> 
+       <img align="center" alt="" height="40" src="https://aleen42.github.io/badges/src/photoshop.svg"> 
+       <img align="center" alt="" height="40" src="https://aleen42.github.io/badges/src/after_effects.svg"> 
+       <img align="center" alt="" height="40" src="https://aleen42.github.io/badges/src/premiere.svg"> 
    </div>
  <br> 
 <table>
