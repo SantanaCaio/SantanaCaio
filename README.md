@@ -33,11 +33,7 @@
        <img align="center" alt="" height="30" src="https://aleen42.github.io/badges/src/after_effects.svg"> 
        <img align="center" alt="" height="30" src="https://aleen42.github.io/badges/src/premiere.svg"> 
    </div>
- 
- 
- 
- 
- 
+ <br> 
 <table>
  <div align="center">
   <span> Um pouquinho sobre mim.. </span>
