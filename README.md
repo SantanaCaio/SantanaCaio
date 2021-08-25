@@ -39,13 +39,13 @@
   <span> Um pouquinho sobre mim.. </span>
  </div>
   <tr >
-    <td width="500px">🔭 Hoje estou em trasição de carreira </td>
-    <td width="500px">🌱 Estudando atualmente C# .NET</td>
+    <td align="center" width="500px">🔭 Hoje estou em trasição de carreira </td>
+    <td align="center" width="500px">🌱 Estudando atualmente C# .NET</td>
   </tr>
   <tr>
-    <td >📫 Como me achar: Me envie um email: 😀 <br>
+    <td align="center">📫 Como me achar: Me envie um email: 😀 <br>
     <strong>caiobezerra.santana@gmail.com<strong> </td>
-    <td>🤔 estou em busca de mentoria para o framework ANGULAR </td>
+    <td align="center">🤔 estou em busca de mentoria para o framework ANGULAR </td>
   </tr>
 </table>
 
