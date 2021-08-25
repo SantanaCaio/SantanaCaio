@@ -1,7 +1,7 @@
 <h2 align="center"> 🖖 Olá!! 😃 <br> Eu me chamo Caio Bezerra! <br> 
  Este é o meu pedacinho de mundo no universo da Internet!! 🌍 </h2>
 
- <div>
+ <div align="center">
   <a href="https://github.com/SantanaCaio">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SantanaCaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaCaio&layout=compact&langs_count=7&theme=dark"/>
