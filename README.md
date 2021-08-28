@@ -6,8 +6,8 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaCaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-	 ![Snake animation](https://github.com/SantanaCaio/blob/output/github-contribution-grid-snake.svg)
-	
+	 
+	![Snake animation](https://github.com/SantanaCaio/SantanaCaio/blob/output/github-contribution-grid-snake.svg)
 	
 	
 <div align="center" style="display: inline_block"><h3>Atualmente eu desenvolvo meus Front-ends com: </h3></div>
