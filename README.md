@@ -8,12 +8,29 @@
  
 <div align="center" style="display: inline_block"><h3>Atualmente eu desenvolvo meus Front-ends com: </h3></div>
 <div align="center" style="display: inline_block"> 
-  <img align="center"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center"  height="30" width="40" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/html5/html5-original.svg">
-  <img align="center"  height="30" width="40" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+<strong width="50"> - </strong>
+  <img align="center"  height="40" width="40" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/html5/html5-original.svg">
+  <img align="center"  height="40" width="40" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/css3/css3-original.svg">
+  <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
+<div align="center" style="display: inline_block"><h3>Atualmente estou <strong>iniciando</strong> meus conhecimentos em Back-end com:</h3></div>
+<div align="center" style="display: inline_block">
+ <img align="center"  height="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<strong width="50"> - </strong>
+ <img align="center"  height="40" width="40" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/csharp/csharp-original.svg"> 
+</div>
+	
+ <div align="center" style="display: inline_block"><h3>Desenvolvo meus Bancos de dados com:</h3></div>
+<div align="center" style="display: inline_block">
+ <img align="center"  height="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
- 
- 
+<div align="center" style="display: inline_block"><h3><h3>Implanto todos os meus serviços com:</h3></div>
+<div align="center" style="display: inline_block"> 
+  <img align="center"  height="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+</div>
+	
+	
+	
