@@ -1,4 +1,4 @@
-<h2 align="center"> 🖖 Olá!! 😃 <br> Eu me chamo Caio Bezerra!🌍 </h2>
+<h2 align="center"> Bem vindos! <br> Eu me chamo Caio Bezerra, e este é o meu repositório </h2>
  
  <div align="center">
   <a href="https://github.com/SantanaCaio">
