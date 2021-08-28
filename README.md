@@ -12,7 +12,7 @@
 	
 
 
-<div align="center" style="display: inline_block"><h3>Atualmente eu desenvolvo meus Front-ends com: </h3></div>
+<div align="center" style="display: inline_block"><h3>Desenvolvo meu Front-end com: </h3></div>
 <div align="center" style="display: inline_block"> 
   <img align="center"  height="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <strong width="50"> - </strong>
