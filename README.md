@@ -6,6 +6,10 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanaCaio&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+	 ![Snake animation](https://github.com/SantanaCaio/blob/output/github-contribution-grid-snake.svg)
+	
+	
+	
 <div align="center" style="display: inline_block"><h3>Atualmente eu desenvolvo meus Front-ends com: </h3></div>
 <div align="center" style="display: inline_block"> 
   <img align="center"  height="40" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -40,3 +44,4 @@
 	<img align="center"  height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
 </div>
 	
+
