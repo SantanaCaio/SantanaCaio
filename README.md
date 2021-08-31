@@ -37,6 +37,12 @@
 <div align="center" style="display: inline_block"> 
   <img align="center"  height="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
 </div>
+
+ <div align="center" style="display: inline_block"><h3><h3>Versiono meus projetos com:</h3></div>
+<div align="center" style="display: inline_block"> 
+  <img align="center"  height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">  
+  <img align="center"  height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
+</div>
 	
 <div align="center" style="display: inline_block"><h3><h3>Meus proximos passos são:</h3></div>
 <div align="center" style="display: inline_block"> 
@@ -54,8 +60,4 @@
 </div>
 
 
- <div align="center" style="display: inline_block"><h3><h3>Versiono meus projetos com:</h3></div>
-<div align="center" style="display: inline_block"> 
-  <img align="center"  height="30" src="https://aleen42.github.io/badges/src/git.svg">  
-  <img align="center"  height="30" src="https://aleen42.github.io/badges/src/git-hub.svg"> 
-</div>
+
