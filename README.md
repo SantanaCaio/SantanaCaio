@@ -52,3 +52,10 @@
   <img align="center"  height="30" src="https://aleen42.github.io/badges/src/photoshop.svg">  
   <img align="center"  height="30" src="https://aleen42.github.io/badges/src/premiere.svg"> 
 </div>
+
+
+ <div align="center" style="display: inline_block"><h3><h3>Versiono meus projetos com:</h3></div>
+<div align="center" style="display: inline_block"> 
+  <img align="center"  height="30" src="https://aleen42.github.io/badges/src/git.svg">  
+  <img align="center"  height="30" src="https://aleen42.github.io/badges/src/git-hub.svg"> 
+</div>
