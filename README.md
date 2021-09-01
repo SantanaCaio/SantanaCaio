@@ -40,8 +40,9 @@
 
  <div align="center" style="display: inline_block"><h3><h3>Versiono meus projetos com:</h3></div>
 <div align="center" style="display: inline_block"> 
-  <img align="center"  height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">  
-  <img align="center"  height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> 
+  <img align="center"  height="50" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/git/4373153_git_logo_logos_icon.png">  
+  <img align="center"  height="50" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/git/2993773_git_social%20media_icon.png">  
+  <img align="center"  height="50" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/github/1522016_git_github_internet_media_multimedia_icon.png"> 
 </div>
 	
 <div align="center" style="display: inline_block"><h3><h3>Meus proximos passos são:</h3></div>
