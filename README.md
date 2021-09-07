@@ -60,6 +60,5 @@
   <img align="center"  height="30" src="https://aleen42.github.io/badges/src/premiere.svg"> 
 </div>
 <br><br>
-<p align="center">Contagem de visitas (Iniciado Recentemente) </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SanatanaCaio/count.svg" /></p>
+
 
