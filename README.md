@@ -52,7 +52,6 @@
 	<img align="center"  height="40" src="https://github.com/SantanaCaio/SantanaCaio/blob/main/assets/firebase/firebase-plain-wordmark.svg"> 
 	<img align="center"  height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
 </div>
-	
 <div align="center" style="display: inline_block"><h3><h3>Crio e edito videos e imagens com:</h3></div>
 <div align="center" style="display: inline_block"> 
   <img align="center"  height="30" src="https://aleen42.github.io/badges/src/after_effects.svg">  
